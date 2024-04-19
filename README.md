@@ -1,6 +1,6 @@
-admin account 
-username :admin
-password :adminpassword
+admin account:
+- username :admin
+- password :adminpassword
 
 Phải sử dụng tài khoản admin để tạo những tài khoản user khác 
 
